@@ -1,0 +1,20 @@
+body{
+  background-color: darksalmon; 
+text-align: center; 
+}
+h1{
+    background-color:brown;
+    color:white;
+    font-family: 'Angkor', cursive;
+font-family: 'Edu SA Beginner', cursive;
+font-family: 'IBM Plex Sans', sans-serif;
+font-family: 'Kanit', sans-serif;
+font-family: 'Lobster', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Pangolin', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Roboto Slab', serif;
+font-family: 'Sofia', cursive;
+font-family: 'VT323', monospace;
+}
